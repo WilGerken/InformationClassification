@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationClassification", "InformationClassification\InformationClassification.csproj", "{98FD78D2-D910-4AA5-814A-F5A31A320CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{1C92C7E2-8ADD-40C3-8571-6B12A647172F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{4CAF23C3-76DE-4773-A268-3018CE335BAF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - BP\Desktop\Info Classification\Add User Submitted Files to InfoClass.sql = ..\..\..\..\OneDrive - BP\Desktop\Info Classification\Add User Submitted Files to InfoClass.sql
+		Create InfoClass Table.sql = Create InfoClass Table.sql
+		..\..\..\..\OneDrive - BP\Desktop\Info Classification\Drop User Imported CSV.sql = ..\..\..\..\OneDrive - BP\Desktop\Info Classification\Drop User Imported CSV.sql
+		..\..\..\..\OneDrive - BP\Desktop\Info Classification\Fix CSV issues formula.txt = ..\..\..\..\OneDrive - BP\Desktop\Info Classification\Fix CSV issues formula.txt
+		..\..\..\..\OneDrive - BP\Desktop\Info Classification\Fix Data Issues.sql = ..\..\..\..\OneDrive - BP\Desktop\Info Classification\Fix Data Issues.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Process Documentation", "Process Documentation", "{158F8D59-9E40-4A00-A071-7E6BB7B7B9E1}"
+	ProjectSection(SolutionItems) = preProject
+		T:\AkTMO\Share Drive Cleanup Directions v5.docx = T:\AkTMO\Share Drive Cleanup Directions v5.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|x64.Build.0 = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Debug|x86.Build.0 = Debug|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|x64.ActiveCfg = Release|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|x64.Build.0 = Release|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|x86.ActiveCfg = Release|Any CPU
+		{98FD78D2-D910-4AA5-814A-F5A31A320CEB}.Release|x86.Build.0 = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Debug|x86.Build.0 = Debug|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|x64.Build.0 = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C92C7E2-8ADD-40C3-8571-6B12A647172F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBC9088-A42D-4839-8360-779ABD55A553}
+	EndGlobalSection
+EndGlobal
